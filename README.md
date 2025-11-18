@@ -1,18 +1,18 @@
-👋 Hi there!
+**👋 Hi there!**
 
-I'm Adebobola, 
+**I'm Adebobola,** 
 
 A Microbiologist, self-taught Software Developer, and Bioinformatics enthusiast.
 
 Whether you find me in the lab exploring uncultured microbes, or at my desk writing algorithms and building software, my goal is simple: use science and technology to solve real-world problems and improve human life.
 
-💻 Tech Stack
+**💻 Tech Stack**
 
 I am proficient in Python, React, TypeScript, MySQL, and deployment tools.
 
 I love building systems that are simple, useful, reproducible and scalable.
 
-🚀 What I'm up to
+**🚀 What I'm up to**
 
 Learning and contributing to open-source projects.
 
@@ -20,7 +20,7 @@ Building and utilizing automated pipelines, containers, and workflows in both Bi
 
 Sharpening my skills one project at a time and staying adaptive. 
 
-📫 Let’s connect
+**📫 Let’s connect**
 
 I'm always open to conversations, collaborations, and opportunities.
 You can reach me on:
