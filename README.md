@@ -30,6 +30,6 @@ You can reach me on:
 
 
 
-<!-- 🌐 Check out my mini website
+🌐 Check out my mini website
 
-@ your link here -->
+@ www.adebobola.xyz 
